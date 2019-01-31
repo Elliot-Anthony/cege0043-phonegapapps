@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "Basicapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "Basicapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "Basicapp"
+    }
+  }
+}
